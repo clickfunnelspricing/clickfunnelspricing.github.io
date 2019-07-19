@@ -1,0 +1,36 @@
+{
+  "title": "Material demo",
+  "homepage": ".",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/steppers/VerticalLinearStepper.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "@material-ui/core": "next",
+    "dom-confetti": "0.1.1",
+    "babel-runtime": "latest",
+    "react-script-tag": "1.1.2"
+  },
+  "name": "material-demo",
+  "version": "0.0.356",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
